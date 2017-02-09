@@ -1,0 +1,88 @@
+{
+  "template/knowList.html": {
+    "href": "template/knowList.html",
+    "priority": 0
+  },
+  "template/knowDetail.html": {
+    "href": "template/knowDetail.html",
+    "priority": 0
+  },
+  "template/booksdetail.html": {
+    "href": "template/booksdetail.html",
+    "priority": 0
+  },
+  "template/foodList.html": {
+    "href": "template/foodList.html",
+    "priority": 0
+  },
+  "template/drugList.html": {
+    "href": "template/drugList.html",
+    "priority": 0
+  },
+  "template/consurtList.html": {
+    "href": "template/consurtList.html",
+    "priority": 0
+  },
+  "template/drugDetail.html": {
+    "href": "template/drugDetail.html",
+    "priority": 0
+  },
+  "template/bookslist.html": {
+    "href": "template/bookslist.html",
+    "priority": 0
+  },
+  "template/foodDetail.html": {
+    "href": "template/foodDetail.html",
+    "priority": 0
+  },
+  "template/healthDetail.html": {
+    "href": "template/healthDetail.html",
+    "priority": 0
+  },
+  "template/issueList.html": {
+    "href": "template/issueList.html",
+    "priority": 0
+  },
+  "template/navbar.html": {
+    "href": "template/navbar.html",
+    "priority": 0
+  },
+  "template/home.html": {
+    "href": "template/home.html",
+    "priority": 0
+  },
+  "template/issueDetail.html": {
+    "href": "template/issueDetail.html",
+    "priority": 0
+  },
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/bootstrap.min.css",
+      "css/index.css",
+      "js/jquery-1.11.3.js",
+      "js/bootstrap.min.js",
+      "js/angular.js",
+      "js/angular-ui-router.js"
+    ],
+    "refer": [
+      "template/knowList.html",
+      "template/knowDetail.html",
+      "template/booksdetail.html",
+      "template/foodList.html",
+      "template/drugList.html",
+      "template/consurtList.html",
+      "template/drugDetail.html",
+      "template/bookslist.html",
+      "template/foodDetail.html",
+      "template/healthDetail.html",
+      "template/issueList.html",
+      "template/navbar.html",
+      "template/home.html",
+      "template/issueDetail.html"
+    ],
+    "priority": 0
+  }
+}
